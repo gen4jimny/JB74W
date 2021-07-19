@@ -1,19 +1,17 @@
-== Introduction ==
+# Introduction
 
-{{Gen4|}}
 The Gen4 (2018-) Jimny comes with two front speakers installed. No rear speakers are fitted, although the wiring necessary to connect them to the headunit is already in place (confirmed for SZ5, tbc for SZ4). This guide details how to install rear speakers using official Suzuki parts.
 
-== Parts ==
+# Parts
 
 This guide assumes that the following parts are being used.
 
 * 99197-77R10 - rear speaker bracket kit.
 * 99000-79BJ0-R00 - rear speaker kit (2 x Pioneer TS-G1320FZS)
 
-[[File:spk0.jpg|400px|thumb|left|Parts]]
-<br clear=all>
+![Parts](https://github.com/gen4jimny/JB74W/blob/main/spk0.jpg)
 
-== Tools needed ==
+# Tools needed ==
 
 * Small flat head screwdriver
 * 10mm Socket & driver/ratchet
