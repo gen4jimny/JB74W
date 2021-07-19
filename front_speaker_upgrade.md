@@ -1,9 +1,5 @@
-{{intro-notes}}
-
-
 == Introduction ==
 
-{{Gen4|}}
 Gen4 Jimnys are factory fitted with a pair of dual cone 10 cm front speakers. These can be replaced to improve the quality of the stereo sound.
 
 This guide contains instructions on how to replace the stock factory front speakers in a Gen4 Jimny (2018 - ongoing).
@@ -11,14 +7,12 @@ This guide contains instructions on how to replace the stock factory front speak
 
 == Tools needed ==
 
-{{Gen4|}}
 * Philips screwdriver;
 * Small flat head screwdriver;
 * Pliers;
 
 == Guide  ==
 
-{{Gen4|}}
 The  front speakers in a Jimny 4 are located in side doors.
 
 Suzuki offers an accessory bracket kit allowing for these 10 cm stock speakers to be replaced with 13 cm speakers.
@@ -30,7 +24,6 @@ The YouTube video below shows the installation process
 * [https://youtu.be/Ti5HH0Yopf0 Video - how to fit the upgrade kit]
 
 === Parts ===
-
 
 * [https://www.bigjimny.com/store/front-speaker-mounting-upgrade-kit.html Front speaker upgrade bracket kit]
 ** Suzuki P.N. 990E0-78R32-000;
